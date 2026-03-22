@@ -103,7 +103,7 @@ Both models were evaluated using MSE, MAE, R² Score, and accuracy within a 10% 
 
 ### Prerequisites
 ```bash
-git clone https://github.com/YOUR_USERNAME/visual-servoing-multimodal.git
+git clone https://github.com/christina-kamble/visual-servoing-multimodal.git
 cd visual-servoing-multimodal
 pip install -r requirements.txt
 ```
