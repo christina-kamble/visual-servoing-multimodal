@@ -1,4 +1,4 @@
-# 🤖 Multi-Modal Deep Learning Architectures for Visual Servoing
+#  Multi-Modal Deep Learning Architectures for Visual Servoing
 
 > MSc Data Science Dissertation — University of Surrey (2024–2025)  
 > Supervised by Dr Amir Esfahani
